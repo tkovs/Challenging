@@ -1,4 +1,4 @@
-a = gets.chomp.to_i
-b = gets.chomp.to_i
+a = gets.to_i
+b = gets.to_i
 
 puts "X = #{a+b}"
