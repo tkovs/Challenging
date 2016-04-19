@@ -3,7 +3,7 @@ a = 1
 b = 1
 c = 1
 
-n = gets.chomp.to_i
+n = gets.to_i
 
 n.times do
     puts "#{a} #{b} #{c} "
